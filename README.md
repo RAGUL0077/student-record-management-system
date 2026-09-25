@@ -27,3 +27,8 @@ Dynamic Memory Allocation
 File Handling
 Structures
 Multiple Source Files
+
+Compilation:
+compile the main file
+$cc main.c
+
